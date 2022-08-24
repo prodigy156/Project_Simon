@@ -1,0 +1,5 @@
+﻿  Project_Simon.cpp
+  FAriasSimpleGraphics64.lib(FAriasSimpleGraphics.obj) : se encontr¾ .netmodule MSIL o un m¾dulo compilado con /GL; reiniciando la vinculaci¾n con /LTCG; agregue /LTCG a la lÝnea de comandos de vÝnculo para mejorar el rendimiento del vinculador
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificaci¾n '/LTCG'
+LINK : fatal error C1905: Front-end y back-end no compatibles (el destino debe ser el mismo procesador).
+LINK : fatal error LNK1257: error de generaci¾n de c¾digo

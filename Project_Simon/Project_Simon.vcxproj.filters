@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Colores">
+      <UniqueIdentifier>{330f53c4-f8f0-4fa8-9963-508b68a6132f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Colores">
+      <UniqueIdentifier>{d3281e90-629f-43c2-8e1f-b31952871b18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Levels">
+      <UniqueIdentifier>{06fbdf29-6927-4e4a-b775-ad6814128b46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\FranLibrary">
+      <UniqueIdentifier>{f9d10668-5b3e-48ee-ba3a-02d521e44e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Game">
+      <UniqueIdentifier>{9bd1f209-f0b0-4b16-856f-9e6a319eb6dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Game">
+      <UniqueIdentifier>{4a44efe9-5ac9-43c9-8ffc-e91604ea2034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\FranLibrary">
+      <UniqueIdentifier>{10ff8265-7455-4300-b184-8f3fbae7a689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Engine">
+      <UniqueIdentifier>{3fe83af2-2360-41e4-88d7-c4881862240f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Level">
+      <UniqueIdentifier>{3495114f-7ab4-4721-be39-6a8c99c5e250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Engine">
+      <UniqueIdentifier>{54925b3f-81b9-48ea-b8bd-e7626d0716b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Menu">
+      <UniqueIdentifier>{01b051b7-6275-4157-8677-ec947f1cce95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Menu">
+      <UniqueIdentifier>{fbebbbff-6a88-4bc8-b88d-7e7fbb61e0fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Time">
+      <UniqueIdentifier>{726de547-f1a5-428d-a18f-426a9653ede3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Time">
+      <UniqueIdentifier>{87194106-cb31-448b-83f9-a52d51cb2644}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Project_Simon.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Archivos de origen\Colores</Filter>
+    </ClCompile>
+    <ClCompile Include="Blue.cpp">
+      <Filter>Archivos de origen\Colores</Filter>
+    </ClCompile>
+    <ClCompile Include="Red.cpp">
+      <Filter>Archivos de origen\Colores</Filter>
+    </ClCompile>
+    <ClCompile Include="Green.cpp">
+      <Filter>Archivos de origen\Colores</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Archivos de origen\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Archivos de origen\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameParams.cpp">
+      <Filter>Archivos de origen\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>Archivos de origen\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalLevel.cpp">
+      <Filter>Archivos de origen\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="HardLevel.cpp">
+      <Filter>Archivos de origen\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLevel.cpp">
+      <Filter>Archivos de origen\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverLevel.cpp">
+      <Filter>Archivos de origen\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Yellow.cpp">
+      <Filter>Archivos de origen\Colores</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Archivos de origen\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Play.cpp">
+      <Filter>Archivos de origen\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Portada.cpp">
+      <Filter>Archivos de origen\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Dificultad.cpp">
+      <Filter>Archivos de origen\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy.cpp">
+      <Filter>Archivos de origen\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="DificultyLevel.cpp">
+      <Filter>Archivos de origen\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Hard.cpp">
+      <Filter>Archivos de origen\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Archivos de origen\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeEasy.cpp">
+      <Filter>Archivos de origen\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeHard.cpp">
+      <Filter>Archivos de origen\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="FAriasSimpleGraphics.cpp">
+      <Filter>Archivos de origen\FranLibrary</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.h">
+      <Filter>Archivos de encabezado\Colores</Filter>
+    </ClInclude>
+    <ClInclude Include="Blue.h">
+      <Filter>Archivos de encabezado\Colores</Filter>
+    </ClInclude>
+    <ClInclude Include="Red.h">
+      <Filter>Archivos de encabezado\Colores</Filter>
+    </ClInclude>
+    <ClInclude Include="Green.h">
+      <Filter>Archivos de encabezado\Colores</Filter>
+    </ClInclude>
+    <ClInclude Include="GameParams.h">
+      <Filter>Archivos de encabezado\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Archivos de encabezado\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Archivos de encabezado\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="FAriasSimpleGraphics.h">
+      <Filter>Archivos de encabezado\FranLibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Archivos de encabezado\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalLevel.h">
+      <Filter>Archivos de encabezado\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="HardLevel.h">
+      <Filter>Archivos de encabezado\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuLevel.h">
+      <Filter>Archivos de encabezado\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverLevel.h">
+      <Filter>Archivos de encabezado\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Yellow.h">
+      <Filter>Archivos de encabezado\Colores</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Archivos de encabezado\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Archivos de encabezado\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Play.h">
+      <Filter>Archivos de encabezado\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Portada.h">
+      <Filter>Archivos de encabezado\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonStates.h">
+      <Filter>Archivos de encabezado\Colores</Filter>
+    </ClInclude>
+    <ClInclude Include="Dificultad.h">
+      <Filter>Archivos de encabezado\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="DificultyLevel.h">
+      <Filter>Archivos de encabezado\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard.h">
+      <Filter>Archivos de encabezado\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy.h">
+      <Filter>Archivos de encabezado\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeEasy.h">
+      <Filter>Archivos de encabezado\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Archivos de encabezado\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeHard.h">
+      <Filter>Archivos de encabezado\Time</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="FAriasSimpleGraphics64.lib">
+      <Filter>Archivos de origen\FranLibrary</Filter>
+    </Library>
+    <Library Include="FAriasSimpleGraphicsDBG64.lib">
+      <Filter>Archivos de origen\FranLibrary</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Amarillo.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Azul.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Rojo.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Simon.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Verde.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Rojo2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Amarillo2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Azul2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Verde2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Menu_Simon.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Play.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Dificultad.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Play2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Dificultad2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="easy.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="easy2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="hard.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="hard2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Tiempo0.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Tiempo1.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Tiempo2.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Tiempo3.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Tiempo4.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="Tiempo5.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

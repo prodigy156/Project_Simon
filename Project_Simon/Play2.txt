@@ -1,0 +1,9 @@
+29,8
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+F...........................F
+F.BBBB.B........B.....B...B.F
+F.B..B.B.......B.B.....B.B..F
+F.BBBB.B......BBBBB.....B...F
+F.B....BBBB..B.....B....B...F
+F...........................F
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFF

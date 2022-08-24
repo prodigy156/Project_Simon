@@ -1,0 +1,7 @@
+#pragma once
+
+enum class EGameStates
+{
+	MENU_LEVEL, NORMAL_LEVEL, HARD_LEVEL, GAME_OVER, DIFICULTY_LEVEL, STOP_LEVEL
+};
+

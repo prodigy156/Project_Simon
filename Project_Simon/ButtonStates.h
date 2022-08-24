@@ -1,0 +1,6 @@
+#pragma once
+
+enum class EButtonStates
+{
+	BLUE_PRESSED, YELLOW_PRESSED, GREEN_PRESSED, RED_PRESSED, RELEASED
+};
